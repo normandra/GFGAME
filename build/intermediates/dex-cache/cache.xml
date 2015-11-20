@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Norman\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.7.0\d8c0e81a68812893d0bf80cea37fbcba9f23d38b\gdx-backend-android-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d8c0e81a68812893d0bf80cea37fbcba9f23d38b">
+        <dex dex="C:\Users\Norman\Documents\GFgame\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.7.0-7d1efc0d1434302dbba0f54a585bd1253b002058.jar" />
+    </item>
+    <item
+        jar="C:\Users\Norman\Documents\GFgame\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7b65f5d96cf6c1f7d94c24b8457a11442ebff4e5">
+        <dex dex="C:\Users\Norman\Documents\GFgame\android\build\intermediates\pre-dexed\debug\core-1.0-4ca76ae4a9563871fa01ec3bf297435eccd5a6f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Norman\Documents\GFgame\libs\tween-engine-api-sources.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b471c161e1bd73eb4a762a35d75b40eb5b4de3a1">
+        <dex dex="C:\Users\Norman\Documents\GFgame\android\build\intermediates\pre-dexed\debug\tween-engine-api-sources-9ecfb929917ed436d51bea10b3c397b6b92d3f81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Norman\Documents\GFgame\libs\tween-engine-api.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="C:\Users\Norman\Documents\GFgame\android\build\intermediates\pre-dexed\debug\tween-engine-api-494ff553320714ceff91799f91235a44e786dde0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Norman\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.7.0\1b08c96132448b5ab9c0cc8dea3e985dcf0166fd\gdx-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b08c96132448b5ab9c0cc8dea3e985dcf0166fd">
+        <dex dex="C:\Users\Norman\Documents\GFgame\android\build\intermediates\pre-dexed\debug\gdx-1.7.0-161c89dbf99a843818c4762d7ca53ef3cf0158c2.jar" />
+    </item>
+
+</items>
